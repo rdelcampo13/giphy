@@ -1,0 +1,23 @@
+.gif {
+  display: inline-block;
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.gif > img {
+  display: block;
+  width: 100%;
+}
+
+.rating {
+  width: 25%;
+  display: inline-block;
+}
+
+.btn-default {
+  margin: 3px;
+}
+
+
+
